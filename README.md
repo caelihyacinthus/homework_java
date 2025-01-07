@@ -1,2 +1,2 @@
-# homework_java
+# homework
 homework and classwork for java
