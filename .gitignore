@@ -1,0 +1,6 @@
+.idea/
+target/
+*.xml
+*.json
+*.yml
+test/
