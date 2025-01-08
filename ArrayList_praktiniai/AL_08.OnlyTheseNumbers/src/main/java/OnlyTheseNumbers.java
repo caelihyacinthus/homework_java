@@ -9,7 +9,7 @@ public class OnlyTheseNumbers {
 
         ArrayList<Integer> numbers = new ArrayList<>();
         while (true) {
-            int number = Integer.valueOf(scanner.nextLine());
+            int number = Integer.parseInt(scanner.nextLine());
             if (number == -1) {
                 break;
             }

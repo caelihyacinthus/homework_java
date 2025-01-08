@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class PrintInRange {
 
     public static void main(String[] args) {
-        ArrayList<Integer> list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<>();
         list.add(3);
         list.add(10);
 
